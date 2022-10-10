@@ -1,5 +1,5 @@
 
-# Welcome to Tribute!🚀
+# Welcome to Tribute!🤝
 
 Tribute is a platform that **connects incredible talent with real projects** that help building a **better world**.
 
