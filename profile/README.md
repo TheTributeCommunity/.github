@@ -1,5 +1,8 @@
 
-# Welcome to Tribute!🤝
+![Group 99](https://user-images.githubusercontent.com/87816699/196982569-1b1b0064-b265-4bcc-90d2-65cca3ad3b7b.png)
+
+
+# What is Tribute?
 
 Tribute is a platform that **connects incredible talent with real projects** that help building a **better world**.
 
@@ -15,5 +18,5 @@ That is our **goal**: to search for and structure the technological needs of pro
 And that is Tribute, a tribute for those projects willing to change the world, a **tribute to you that are here willing to contribute.**
 
 
-
 **Welcome to Tribute!**
+
